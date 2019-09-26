@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:id="@+id/sp"
+    >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Sessions  1-8  "
+        android:id="@+id/s1"
+        android:textColor="#000"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="150dp"
+        />
+
+</RelativeLayout>
